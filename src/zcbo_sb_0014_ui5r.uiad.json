@@ -1,0 +1,33 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "수불 수기 처리",
+    "originalLanguage": "ko",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zcbosb0014"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_EAFD0EDE08AF4DD6F9229C3FF9F66DBC9888AE54_TM",
+    "semanticObject": "ZCBO_SB_0014",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_EAFD0EDE08AF4DD6F9229C3FF9F66DBC9888AE54_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "수불 수기 처리"
+      }
+    }
+  ]
+}
